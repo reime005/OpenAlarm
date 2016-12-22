@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="no_alarms">Keine Alarme verfügbar</string>
+    <string formatted="false" name="alarm_will_sound_in">\"Alarm wird in \"</string>
+    <string formatted="false" name="alarm_minutes">%d Minuten klingeln.</string>
+    <string formatted="false" name="alarm_less_minute">weniger als einer Minute klingeln.</string>
+    <string formatted="false" name="alarm_hours_and_minutes">%d Stunden und %d Minuten klingeln.</string>
+</resources>

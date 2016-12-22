@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">OpenAlarm</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="path_tick" translatable="false">M4.8,13.4 L9,17.6 M10.4,16.2 L19.6,7</string>
+    <string name="path_cross" translatable="false">M6.4,6.4 L17.6,17.6 M6.4,17.6 L17.6,6.4</string>
+    <string name="arrowoverflow_path_arrowhead" translatable="false">M -5.5,-1 l 11,0 c 0,0 0,0 0,0 l 0,2 c 0,0 0,0 0,0 l -11,0 c 0,0 0,0 0,0 l 0,-2 c 0,0 0,0 0,0 Z</string>
+    <string name="arrowoverflow_path_arrowbar" translatable="false">M -7,-1 l 14,0 c 0,0 0,0 0,0 l 0,2 c 0,0 0,0 0,0 l -14,0 c 0,0 0,0 0,0 l 0,-2 c 0,0 0,0 0,0 Z</string>
+    <string name="arrowoverflow_path_dot" translatable="false">M 0,-2 l 0,0 c 1.1045694996,0 2,0.8954305004 2,2 l 0,0 c 0,1.1045694996 -0.8954305004,2 -2,2 l 0,0 c -1.1045694996,0 -2,-0.8954305004 -2,-2 l 0,0 c 0,-1.1045694996 0.8954305004,-2 2,-2 Z</string>
+    <string name="no_alarms">No alarms available</string>
+    <string formatted="false" name="alarm_will_sound_in">"Alarm will sound in "</string>
+    <string formatted="false" name="alarm_hours_and_minutes">%d hours and %d minutes.</string>
+    <string formatted="false" name="alarm_minutes">\"%d minutes.\"</string>
+    <string formatted="false" name="alarm_less_minute">less than a minute.</string>
+</resources>
