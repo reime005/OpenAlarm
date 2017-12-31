@@ -5,4 +5,4 @@ This is a simple example for an Android App that schedules an Alarm. I included 
 ![Screenshot](https://raw.githubusercontent.com/reime005/OpenAlarm/master/screen.png)
 
 ## My Blog
-[reimerm.de](https://reimerm.de/)
+[mariusreimer.com](https://mariusreimer.com/)
